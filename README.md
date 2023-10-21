@@ -16,7 +16,7 @@ Hola mi nombre es Fran, soy de Badalona, Barcelona, España.
 
 Soy un Administrador de sistemas que un día decidió compaginar su vida diaria con programación y ahí termino su vida social.
 
-Realmente, me encanta encanta la programación y la creación de proyectos. 
+Realmente, me encanta la programación y la creación de proyectos. 
 
 El empezar en este mundillo, me ha abierto muchas puertas a conocimientos que yo ni imaginaba y quiero seguir aprendiendo, cada día aprendo más y me siento más unido a esta comunidad de investigadores y desafiadores de lo imposible.
 
